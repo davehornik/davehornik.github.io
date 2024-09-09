@@ -1,3 +1,43 @@
 html    {
     background-color: rgb(13, 26, 44);
+    color: antiquewhite;
+
+}
+body    {
+    font-family: monospace;
+}
+
+#wrap    {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+
+#WIP    {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0;
+    width: 100%;
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.name    {
+    font-size: 50px;
+    margin-bottom: auto;
+}
+#quick-info    {
+    left: 25%;
+    width: 600px;
+    text-align: left;
+    margin-left: 15%;    
+}
+#about-me    {
+    padding-top: 20px;
+    font-size: larger;
+}
+#quick-info img    {
+    float: left;
+    margin-right: 10%;
+    width: 150px;
 }
