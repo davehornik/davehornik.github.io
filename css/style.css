@@ -1,20 +1,25 @@
 html    {
-    background-color: rgb(13, 26, 44);
-    color: antiquewhite;
-}
+    background-color: #2D132C;
+    color: #EE4540;
+    font-family: "JetBrains Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;;}
+    
+h1,h2,h3,h4,h5,h6 {color:#e5ff00;}
 
 #WIP    {
-    color: rgb(255, 255, 255);
     text-align: center;
     margin: 0;
-    background-color: black;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    position: inherit;
+    background-color: rgba(0, 0, 0, 0.692);
+    position: fixed;
+    width: 100%;
 }
 .page-container {
+    padding-top: 70px; /*DOČASNÝ KVŮLI WIP BARU PŘI LOADU ABY NEZAKRÝVAL PFP*/
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
-    grid-template-rows: 0.5fr 1fr 1fr 2fr 0.5fr;
+    grid-template-rows: 0.5fr 0.5fr 0.5fr 2fr 0.5fr;
     gap: 30px 0px; 
     grid-auto-flow: row;
     grid-template-areas:
@@ -28,13 +33,15 @@ html    {
     grid-area: name;
     text-align: center;
     margin-right: 150px;
-    margin-left: 150px;
-    font-family:monospace;}
+    margin-left: 150px;}
 
 .name h1 {
     font-size: 40px;
     font-weight: 1000;
     text-transform: uppercase;}
+
+.name h2 {color:#EE4540;}
+.name h3 {color:#801336;}
 
 .profile-pic {
     float: left;}
@@ -44,16 +51,13 @@ html    {
     text-align: center;
     margin-left: 15%;
     margin-right: 15%;
-    font-family: monospace;
     font-size: larger;
     text-align: justify;}
 
 
 .about-me h2 {
     text-align: center;
-    font-family: monospace;
-    text-transform: uppercase;
-}
+    text-transform: uppercase;}
 
 .skills {
     grid-area: skills;
@@ -62,56 +66,67 @@ html    {
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: baseline;
-    font-family: monospace;
-    font-size: larger;
-}
+    font-size: larger;}
+
+.dev-skills > label, .other-skills > label {
+    margin-bottom: 5px;
+    margin-top: 15px;}
 
 .skills h3 {
-    text-transform: uppercase;
-}
+    text-transform: uppercase;}
 
 progress {
-    border-radius: 10px;
-  }
+    border-radius: 10px;}
   
   progress::-webkit-progress-bar {
-    background-color: #151625f1;
-    border-radius: 10px;
-  }
+    background-color: #801336;
+    border-radius: 10px;}
   
   progress::-webkit-progress-value {
-    background-color: #78fff8;
-    border-radius: 10px;
-  }
+    background-color: #e5ff00;
+    border-radius: 10px;}
   
   progress::-moz-progress-bar {
     background-color: #78fff8;
-    border-radius: 10px;
-  }
+    border-radius: 10px;}
 
 .dev-skills {
     display: grid;
     justify-items: center;
-    align-content:center ;
-}
+    align-content:center ;}
 
 .other-skills {
     display: grid;
     justify-items: center;
-    align-content:center ;
-}
+    align-content:center ;}
 
-.my-projects {
-    grid-area: my-projects;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    gap: 20px 20px;}
-
+    .my-projects {
+        grid-area: my-projects;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap; /* Allow projects to wrap if needed */
+        justify-content: center; /* Center the projects */
+        align-items: flex-start; /* Align the top of each project */
+        gap: 20px; /* Add some space between the projects */
+        width: 100%; /* Make sure the container uses full width */
+    }
+    
+    .project {
+        width: 300px; /* Fixed width */
+        display: flex;
+        flex-direction: column; /* Align the content inside the project vertically */
+        flex-grow: 0; /* Prevent growing */
+        flex-shrink: 0; /* Prevent shrinking */
+        align-self: auto;
+        order: 0;
+        text-align: center; /* Center text and content inside project */
+    }
+.project img {
+    width: 300px;}
+ 
 .get-in-touch {
     display: inline-flex;
     grid-area: get-in-touch;
     flex-direction: row;
     justify-content: space-evenly;
-    align-items: center;
-}
+    align-items: center;}
