@@ -1,43 +1,117 @@
 html    {
     background-color: rgb(13, 26, 44);
     color: antiquewhite;
-
-}
-body    {
-    font-family: monospace;
-}
-
-#wrap    {
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-top: 5%;
 }
 
 #WIP    {
     color: rgb(255, 255, 255);
     text-align: center;
     margin: 0;
-    width: 100%;
     background-color: black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: inherit;
+}
+.page-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 0.5fr 1fr 1fr 2fr 0.5fr;
+    gap: 30px 0px; 
+    grid-auto-flow: row;
+    grid-template-areas:
+        ". name ."
+        ". about-me ."
+        ". skills ."
+        ". my-projects ."
+        ". get-in-touch .";}
 
+.name {
+    grid-area: name;
+    text-align: center;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-family:monospace;}
+
+.name h1 {
+    font-size: 40px;
+    font-weight: 1000;
+    text-transform: uppercase;}
+
+.profile-pic {
+    float: left;}
+
+.about-me {
+    grid-area: about-me;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: monospace;
+    font-size: larger;
+    text-align: justify;}
+
+
+.about-me h2 {
+    text-align: center;
+    font-family: monospace;
+    text-transform: uppercase;
 }
-.name    {
-    font-size: 50px;
-    margin-bottom: auto;
-}
-#quick-info    {
-    left: 25%;
-    width: 600px;
-    text-align: left;
-    margin-left: 15%;    
-}
-#about-me    {
-    padding-top: 20px;
+
+.skills {
+    grid-area: skills;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: baseline;
+    font-family: monospace;
     font-size: larger;
 }
-#quick-info img    {
-    float: left;
-    margin-right: 10%;
-    width: 150px;
+
+.skills h3 {
+    text-transform: uppercase;
+}
+
+progress {
+    border-radius: 10px;
+  }
+  
+  progress::-webkit-progress-bar {
+    background-color: #151625f1;
+    border-radius: 10px;
+  }
+  
+  progress::-webkit-progress-value {
+    background-color: #78fff8;
+    border-radius: 10px;
+  }
+  
+  progress::-moz-progress-bar {
+    background-color: #78fff8;
+    border-radius: 10px;
+  }
+
+.dev-skills {
+    display: grid;
+    justify-items: center;
+    align-content:center ;
+}
+
+.other-skills {
+    display: grid;
+    justify-items: center;
+    align-content:center ;
+}
+
+.my-projects {
+    grid-area: my-projects;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 20px 20px;}
+
+.get-in-touch {
+    display: inline-flex;
+    grid-area: get-in-touch;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
 }
