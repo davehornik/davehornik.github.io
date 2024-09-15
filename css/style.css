@@ -104,22 +104,22 @@ progress {
         grid-area: my-projects;
         display: flex;
         flex-direction: row;
-        flex-wrap: wrap; /* Allow projects to wrap if needed */
-        justify-content: center; /* Center the projects */
-        align-items: flex-start; /* Align the top of each project */
-        gap: 20px; /* Add some space between the projects */
-        width: 100%; /* Make sure the container uses full width */
+        flex-wrap: wrap; 
+        justify-content: center; 
+        align-items: flex-start; 
+        gap: 20px; 
+        width: 100%; 
     }
     
     .project {
-        width: 300px; /* Fixed width */
+        width: 300px; 
         display: flex;
-        flex-direction: column; /* Align the content inside the project vertically */
-        flex-grow: 0; /* Prevent growing */
-        flex-shrink: 0; /* Prevent shrinking */
+        flex-direction: column; 
+        flex-grow: 0; 
+        flex-shrink: 0;
         align-self: auto;
         order: 0;
-        text-align: center; /* Center text and content inside project */
+        text-align: center;
     }
 .project img {
     width: 300px;}
