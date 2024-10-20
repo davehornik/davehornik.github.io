@@ -1,9 +1,4 @@
 @charset "UTF-8";
-:root {
-  --x: -8px;
-  --y: -8px;
-}
-
 html {
   background-color: #1b1b1b;
   color: #00ffc8;
@@ -19,7 +14,6 @@ h1, h2, h3, h4, h5, h6 {
 
 #WIP {
   text-align: center;
-  font-size: 20px;
   margin: 0;
   background-color: rgba(0, 0, 0, 0.692);
   position: fixed;
@@ -66,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .name h1 {
   position: relative;
-  font-size: 55px;
+  font-size: 40px;
   font-weight: 1000;
   grid-column: 2;
   grid-row: 1;
@@ -99,7 +93,6 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100%;
   min-height: 150px;
-  max-width: 450px;
   color: rgb(255, 255, 255);
 }
 .word-container > .word {
@@ -127,1117 +120,1117 @@ h1, h2, h3, h4, h5, h6 {
     content: "​a";
     content: "​a"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   0.4317789292%, 0.8625578584% {
     content: "​a ";
     content: "​a "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   0.8635578584%, 1.2943367876% {
     content: "​a J";
     content: "​a J"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   1.2953367876%, 1.7261157168% {
     content: "​a Ju";
     content: "​a Ju"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   1.7271157168%, 2.1578946459% {
     content: "​a Jun";
     content: "​a Jun"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   2.1588946459%, 2.5896735751% {
     content: "​a Juni";
     content: "​a Juni"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   2.5906735751%, 3.0214525043% {
     content: "​a Junio";
     content: "​a Junio"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   3.0224525043%, 3.4532314335% {
     content: "​a Junior";
     content: "​a Junior"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   3.4542314335%, 3.8850103627% {
     content: "​a Junior ";
     content: "​a Junior "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   3.8860103627%, 4.3167892919% {
     content: "​a Junior F";
     content: "​a Junior F"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   4.3177892919%, 4.7485682211% {
     content: "​a Junior Fu";
     content: "​a Junior Fu"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   4.7495682211%, 5.1803471503% {
     content: "​a Junior Ful";
     content: "​a Junior Ful"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   5.1813471503%, 5.6121260794% {
     content: "​a Junior Full";
     content: "​a Junior Full"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   5.6131260794%, 6.0439050086% {
     content: "​a Junior Full-";
     content: "​a Junior Full-"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   6.0449050086%, 6.4756839378% {
     content: "​a Junior Full-S";
     content: "​a Junior Full-S"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   6.4766839378%, 6.907462867% {
     content: "​a Junior Full-St";
     content: "​a Junior Full-St"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   6.908462867%, 7.3392417962% {
     content: "​a Junior Full-Sta";
     content: "​a Junior Full-Sta"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   7.3402417962%, 7.7710207254% {
     content: "​a Junior Full-Stac";
     content: "​a Junior Full-Stac"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   7.7720207254%, 8.2027996546% {
     content: "​a Junior Full-Stack";
     content: "​a Junior Full-Stack"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   8.2037996546%, 8.6345785838% {
     content: "​a Junior Full-Stack ";
     content: "​a Junior Full-Stack "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   8.6355785838%, 9.066357513% {
     content: "​a Junior Full-Stack D";
     content: "​a Junior Full-Stack D"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   9.067357513%, 9.4981364421% {
     content: "​a Junior Full-Stack De";
     content: "​a Junior Full-Stack De"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   9.4991364421%, 9.9299153713% {
     content: "​a Junior Full-Stack Dev";
     content: "​a Junior Full-Stack Dev"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   9.9309153713%, 10.3616943005% {
     content: "​a Junior Full-Stack Deve";
     content: "​a Junior Full-Stack Deve"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   10.3626943005%, 10.7934732297% {
     content: "​a Junior Full-Stack Devel";
     content: "​a Junior Full-Stack Devel"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   10.7944732297%, 11.2252521589% {
     content: "​a Junior Full-Stack Develo";
     content: "​a Junior Full-Stack Develo"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   11.2262521589%, 11.6570310881% {
     content: "​a Junior Full-Stack Develop";
     content: "​a Junior Full-Stack Develop"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   11.6580310881%, 12.0888100173% {
     content: "​a Junior Full-Stack Develope";
     content: "​a Junior Full-Stack Develope"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   12.0898100173%, 21.5015906736% {
     content: "​a Junior Full-Stack Developer";
     content: "​a Junior Full-Stack Developer"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   21.5025906736%, 21.8470138169% {
     content: "​a Junior Full-Stack Develope";
     content: "​a Junior Full-Stack Develope"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   21.8480138169%, 22.1924369603% {
     content: "​a Junior Full-Stack Develop";
     content: "​a Junior Full-Stack Develop"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   22.1934369603%, 22.5378601036% {
     content: "​a Junior Full-Stack Develo";
     content: "​a Junior Full-Stack Develo"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   22.5388601036%, 22.883283247% {
     content: "​a Junior Full-Stack Devel";
     content: "​a Junior Full-Stack Devel"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   22.884283247%, 23.2287063903% {
     content: "​a Junior Full-Stack Deve";
     content: "​a Junior Full-Stack Deve"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   23.2297063903%, 23.5741295337% {
     content: "​a Junior Full-Stack Dev";
     content: "​a Junior Full-Stack Dev"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   23.5751295337%, 23.919552677% {
     content: "​a Junior Full-Stack De";
     content: "​a Junior Full-Stack De"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   23.920552677%, 24.2649758204% {
     content: "​a Junior Full-Stack D";
     content: "​a Junior Full-Stack D"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   24.2659758204%, 24.6103989637% {
     content: "​a Junior Full-Stack ";
     content: "​a Junior Full-Stack "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   24.6113989637%, 24.9558221071% {
     content: "​a Junior Full-Stack";
     content: "​a Junior Full-Stack"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   24.9568221071%, 25.3012452504% {
     content: "​a Junior Full-Stac";
     content: "​a Junior Full-Stac"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   25.3022452504%, 25.6466683938% {
     content: "​a Junior Full-Sta";
     content: "​a Junior Full-Sta"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   25.6476683938%, 25.9920915371% {
     content: "​a Junior Full-St";
     content: "​a Junior Full-St"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   25.9930915371%, 26.3375146805% {
     content: "​a Junior Full-S";
     content: "​a Junior Full-S"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   26.3385146805%, 26.6829378238% {
     content: "​a Junior Full-";
     content: "​a Junior Full-"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   26.6839378238%, 27.0283609672% {
     content: "​a Junior Full";
     content: "​a Junior Full"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   27.0293609672%, 27.3737841105% {
     content: "​a Junior Ful";
     content: "​a Junior Ful"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   27.3747841105%, 27.7192072539% {
     content: "​a Junior Fu";
     content: "​a Junior Fu"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   27.7202072539%, 28.0646303972% {
     content: "​a Junior F";
     content: "​a Junior F"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   28.0656303972%, 28.4100535406% {
     content: "​a Junior ";
     content: "​a Junior "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   28.4110535406%, 28.7554766839% {
     content: "​a Junior";
     content: "​a Junior"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   28.7564766839%, 29.1008998273% {
     content: "​a Junio";
     content: "​a Junio"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   29.1018998273%, 29.4463229706% {
     content: "​a Juni";
     content: "​a Juni"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   29.4473229706%, 29.791746114% {
     content: "​a Jun";
     content: "​a Jun"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   29.792746114%, 30.1371692573% {
     content: "​a Ju";
     content: "​a Ju"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   30.1381692573%, 30.4825924007% {
     content: "​a J";
     content: "​a J"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   30.4835924007%, 30.828015544% {
     content: "​a ";
     content: "​a "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   30.829015544%, 31.1734386874% {
     content: "​a";
     content: "​a"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   31.1744386874%, 35.4912279793% {
     content: "​";
     content: "​"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
-    color: #ff3c00;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
+    color: blueviolet;
   }
   35.4922279793%, 35.9230069085% {
     content: "​a";
     content: "​a"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   35.9240069085%, 36.3547858377% {
     content: "​a ";
     content: "​a "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   36.3557858377%, 36.7865647668% {
     content: "​a D";
     content: "​a D"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   36.7875647668%, 37.218343696% {
     content: "​a De";
     content: "​a De"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   37.219343696%, 37.6501226252% {
     content: "​a Des";
     content: "​a Des"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   37.6511226252%, 38.0819015544% {
     content: "​a Desi";
     content: "​a Desi"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   38.0829015544%, 38.5136804836% {
     content: "​a Desig";
     content: "​a Desig"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   38.5146804836%, 38.9454594128% {
     content: "​a Design";
     content: "​a Design"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   38.9464594128%, 39.377238342% {
     content: "​a Designe";
     content: "​a Designe"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   39.378238342%, 48.7900189983% {
     content: "​a Designer";
     content: "​a Designer"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   48.7910189983%, 49.1354421416% {
     content: "​a Designe";
     content: "​a Designe"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   49.1364421416%, 49.480865285% {
     content: "​a Design";
     content: "​a Design"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   49.481865285%, 49.8262884283% {
     content: "​a Desig";
     content: "​a Desig"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   49.8272884283%, 50.1717115717% {
     content: "​a Desi";
     content: "​a Desi"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   50.1727115717%, 50.517134715% {
     content: "​a Des";
     content: "​a Des"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   50.518134715%, 50.8625578584% {
     content: "​a De";
     content: "​a De"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   50.8635578584%, 51.2079810017% {
     content: "​a D";
     content: "​a D"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   51.2089810017%, 51.5534041451% {
     content: "​a ";
     content: "​a "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   51.5544041451%, 51.8988272884% {
     content: "​a";
     content: "​a"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   51.8998272884%, 56.2166165803% {
     content: "​";
     content: "​"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
-    color: #ff7300;
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
+    color: rgb(179, 0, 0);
   }
   56.2176165803%, 56.6483955095% {
     content: "​a";
     content: "​a"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   56.6493955095%, 57.0801744387% {
     content: "​an";
     content: "​an"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   57.0811744387%, 57.5119533679% {
     content: "​an ";
     content: "​an "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   57.5129533679%, 57.9437322971% {
     content: "​an A";
     content: "​an A"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   57.9447322971%, 58.3755112263% {
     content: "​an AI";
     content: "​an AI"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   58.3765112263%, 58.8072901554% {
     content: "​an AI ";
     content: "​an AI "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   58.8082901554%, 59.2390690846% {
     content: "​an AI A";
     content: "​an AI A"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   59.2400690846%, 59.6708480138% {
     content: "​an AI Ar";
     content: "​an AI Ar"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   59.6718480138%, 60.102626943% {
     content: "​an AI Art";
     content: "​an AI Art"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   60.103626943%, 60.5344058722% {
     content: "​an AI Arti";
     content: "​an AI Arti"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   60.5354058722%, 60.9661848014% {
     content: "​an AI Artis";
     content: "​an AI Artis"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   60.9671848014%, 70.3789654577% {
     content: "​an AI Artist";
     content: "​an AI Artist"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   70.3799654577%, 70.724388601% {
     content: "​an AI Artis";
     content: "​an AI Artis"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   70.725388601%, 71.0698117444% {
     content: "​an AI Arti";
     content: "​an AI Arti"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   71.0708117444%, 71.4152348877% {
     content: "​an AI Art";
     content: "​an AI Art"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   71.4162348877%, 71.7606580311% {
     content: "​an AI Ar";
     content: "​an AI Ar"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   71.7616580311%, 72.1060811744% {
     content: "​an AI A";
     content: "​an AI A"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   72.1070811744%, 72.4515043178% {
     content: "​an AI ";
     content: "​an AI "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   72.4525043178%, 72.7969274611% {
     content: "​an AI";
     content: "​an AI"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   72.7979274611%, 73.1423506045% {
     content: "​an A";
     content: "​an A"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   73.1433506045%, 73.4877737478% {
     content: "​an ";
     content: "​an "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   73.4887737478%, 73.8331968912% {
     content: "​an";
     content: "​an"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   73.8341968912%, 74.1786200345% {
     content: "​a";
     content: "​a"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   74.1796200345%, 78.4964093264% {
     content: "​";
     content: "​"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
-    color: #ff9900;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
+    color: darkorange;
   }
   78.4974093264%, 78.9281882556% {
     content: "​a";
     content: "​a"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   78.9291882556%, 79.3599671848% {
     content: "​a ";
     content: "​a "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   79.3609671848%, 79.791746114% {
     content: "​a d";
     content: "​a d"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   79.792746114%, 80.2235250432% {
     content: "​a do";
     content: "​a do"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   80.2245250432%, 80.6553039724% {
     content: "​a dog";
     content: "​a dog"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   80.6563039724%, 81.0870829016% {
     content: "​a dog ";
     content: "​a dog "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   81.0880829016%, 81.5188618307% {
     content: "​a dog l";
     content: "​a dog l"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   81.5198618307%, 81.9506407599% {
     content: "​a dog lo";
     content: "​a dog lo"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   81.9516407599%, 82.3824196891% {
     content: "​a dog lov";
     content: "​a dog lov"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   82.3834196891%, 82.8141986183% {
     content: "​a dog love";
     content: "​a dog love"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   82.8151986183%, 92.2269792746% {
     content: "​a dog lover";
     content: "​a dog lover"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   92.2279792746%, 92.572402418% {
     content: "​a dog love";
     content: "​a dog love"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   92.573402418%, 92.9178255613% {
     content: "​a dog lov";
     content: "​a dog lov"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   92.9188255613%, 93.2632487047% {
     content: "​a dog lo";
     content: "​a dog lo"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   93.2642487047%, 93.608671848% {
     content: "​a dog l";
     content: "​a dog l"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   93.609671848%, 93.9540949914% {
     content: "​a dog ";
     content: "​a dog "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   93.9550949914%, 94.2995181347% {
     content: "​a dog";
     content: "​a dog"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   94.3005181347%, 94.6449412781% {
     content: "​a do";
     content: "​a do"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   94.6459412781%, 94.9903644214% {
     content: "​a d";
     content: "​a d"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   94.9913644214%, 95.3357875648% {
     content: "​a ";
     content: "​a "/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   95.3367875648%, 95.6812107081% {
     content: "​a";
     content: "​a"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
   95.6822107081%, 100% {
     content: "​";
     content: "​"/"a Junior Full-Stack Developer";
     alt: "a Junior Full-Stack Developer";
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
-    color: #ffbb00;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
+    color: #00e1ff;
   }
 }
 @keyframes typed-0-caret {
@@ -1259,9 +1252,6 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   text-transform: uppercase;
   margin: 0;
-  color: #1b1b1b;
-  font-size: 55px;
-  font-weight: 1000;
 }
 
 .about-me a {
@@ -1289,25 +1279,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .skills h3 {
   text-transform: uppercase;
-  font-size: 30px;
-  font-weight: 1000;
-  color: #1b1b1b;
-  padding-left: 10px;
-  padding-right: 10px;
-  white-space: nowrap; /* Prevent text from wrapping */
-  overflow: visible; /* Allow overflow (default behavior) */
-}
-
-.dev-skills {
-  display: grid;
-  justify-items: center;
-  align-content: center;
-}
-
-.other-skills {
-  display: grid;
-  justify-items: center;
-  align-content: center;
 }
 
 progress {
@@ -1334,25 +1305,32 @@ progress::-moz-progress-value {
   border-radius: 10px;
 }
 
+.dev-skills {
+  display: grid;
+  justify-items: center;
+  align-content: center;
+}
+
+.other-skills {
+  display: grid;
+  justify-items: center;
+  align-content: center;
+}
+
 .my-projects {
   grid-area: my-projects;
   display: flex;
-  flex-direction: column; /* Stack h3 and projects vertically */
-  flex-wrap: nowrap;
-  justify-content: flex-start;
-  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
   gap: 20px;
   width: 100%;
 }
 
 .my-projects h3 {
   text-transform: uppercase;
-  font-size: 55px;
-  font-weight: 1000;
-  position: relative;
-  color: #1b1b1b;
-  width: 100%; /* Make sure the h3 spans the full width */
-  text-align: center; /* Optional: Center align the h3 text */
+  font-size: 30px;
 }
 
 .project {
@@ -1361,6 +1339,8 @@ progress::-moz-progress-value {
   flex-direction: column;
   flex-grow: 0;
   flex-shrink: 0;
+  align-self: auto;
+  order: 0;
   text-align: center;
 }
 
@@ -1376,36 +1356,17 @@ progress::-moz-progress-value {
   align-items: center;
 }
 
-#mouseShadow1 {
-  letter-spacing: 4px;
-  -webkit-text-stroke-width: 0.5px;
-  -webkit-text-stroke-color: #e5ff00;
-  text-shadow: calc(var(--x) * -1) calc(var(--y) * -1) 0px #ff9900, calc(var(--x) * -2) calc(var(--y) * -2) 0px #ff7b00, calc(var(--x) * -3) calc(var(--y) * -3) 0px #ff3c00;
-  box-shadow: calc(var(--x) * -1) calc(var(--y) * -1) 0px #1b1b1b, calc(var(--x) * -2) calc(var(--y) * -2) 0px #1b1b1b, calc(var(--x) * -3) calc(var(--y) * -3) 0px #e5ff00;
+#text {
+  text-align: center;
+  position: relative;
 }
 
-#mouseShadow2 {
-  letter-spacing: 4px;
-  -webkit-text-stroke-width: 0.5px;
-  -webkit-text-stroke-color: #e5ff00;
-  text-shadow: calc(var(--x) * -1) calc(var(--y) * -1) 0px #ff9900, calc(var(--x) * -2) calc(var(--y) * -2) 0px #ff7b00, calc(var(--x) * -3) calc(var(--y) * -3) 0px #ff3c00;
-  box-shadow: calc(var(--x) * -1) calc(var(--y) * -1) 0px #1b1b1b, calc(var(--x) * -2) calc(var(--y) * -2) 0px #1b1b1b, calc(var(--x) * -3) calc(var(--y) * -3) 0px #e5ff00;
+.text0, .text2 {
+  color: #e5ff00;
 }
 
-#mouseShadow3 {
-  letter-spacing: 4px;
-  -webkit-text-stroke-width: 0.5px;
-  -webkit-text-stroke-color: #e5ff00;
-  text-shadow: calc(var(--x) * -1) calc(var(--y) * -1) 0px #ff9900, calc(var(--x) * -2) calc(var(--y) * -2) 0px #ff7b00, calc(var(--x) * -3) calc(var(--y) * -3) 0px #ff3c00;
-  box-shadow: calc(var(--x) * -1) calc(var(--y) * -1) 0px #1b1b1b, calc(var(--x) * -2) calc(var(--y) * -2) 0px #1b1b1b, calc(var(--x) * -3) calc(var(--y) * -3) 0px #e5ff00;
-}
-
-#mouseShadow4 {
-  letter-spacing: 4px;
-  -webkit-text-stroke-width: 0.5px;
-  -webkit-text-stroke-color: #e5ff00;
-  text-shadow: calc(var(--x) * -1) calc(var(--y) * -1) 0px #ff9900, calc(var(--x) * -2) calc(var(--y) * -2) 0px #ff7b00, calc(var(--x) * -3) calc(var(--y) * -3) 0px #ff3c00;
-  box-shadow: calc(var(--x) * -1) calc(var(--y) * -1) 0px #1b1b1b, calc(var(--x) * -2) calc(var(--y) * -2) 0px #1b1b1b, calc(var(--x) * -3) calc(var(--y) * -3) 0px #e5ff00;
+.text1, .text3 {
+  color: #e5ff00;
 }
 
 @media (max-width: 768px) {

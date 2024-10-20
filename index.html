@@ -2,56 +2,63 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
 <html>
     <head>
         <meta charset="utf-8">
-        <html lang="en">
         <title>[WIP] @davehornik - My Resume</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="script/gsap.min.js"></script>
+        <!-- <script src="script/ScrollTrigger.min.js"></script>
+        <script src="script/ScrollToPlugin.min.js"></script>
+        <script src="script/funky.js" async defer></script> -->
         <link rel="stylesheet" href="css/style.css">
+
     </head>
     <body>
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
         <section id="WIP">
-            <h1 style="margin: 0; color: rgb(0, 255, 157)";>⚠️ WORK IN PROGRESS ⚠️</h1>
+            <h1 style="margin: 0; color: rgb(0, 255, 157); font-size: 20px";>⚠️ WORK IN PROGRESS ⚠️</h1>
         </section>
         <div class="page-container">
             <div class="name">
-                <img class="profile-pic" src="content/img/gandalf.png" alt="" width="150px">
+                <img src="content/img/pfp_edit.png" alt="" width="150px">
                 <h1>Dave Horník</h1>
-                <h2>Junior Full-Stack Developer</h2>
-                <h3 style="text-align:right;">from Czechia</h3>
+                <div class="word-container">
+                        I am <span class="word"></span>
+                  </div>
+                <!-- <h3>Born 96 @ West Czechia</h3> -->
             </div>
-
             <div class="about-me">
-                <h2>About Me</h2>
-                <p>I’d love to drop anchor in your lagoon. There comes a time in most men’s lives where they feel the need to raise the Black Flag. Always be yourself, unless you can be a pirate. Then always be a pirate.</p>
-                <p>Wanna shiver me timbers? That’s quite a cutlass ye got thar, what ye need is a good scabbard! Not all treasure is silver and gold Well actualy piracy is a democracy with captains voted for by the crew.</p>
-                <p>Pardon me, but would ya mind if I fired me cannon through your porthole? That’s the finest pirate booty I’ve ever laid eyes on. And that was done without a single drop of rum… You will always remember this as the day you almost caught Captain Jack Sparrow. Life’s pretty good, and why wouldn’t it be? I’m a pirate, after all.</p>
+                <h2 id="mouseShadow1">About Me</h2>
+                <p>I'm a passionate beginner full-stack web developer with a love for coding and web design. Eager to learn and expand my skills, I also have a strong interest in AI image generation and machine learning, especially in chatbots and creative AI. I believe these technologies should enhance, not replace, human work, and I'm excited about how they can shape the future.</p>
+                <p>In my younger years I studied to be an electrician, but working in this field would not have fulfilled me. I went through a lot of short-term jobs before being employed by several companies as a sales professional.</p>
+                <p>My goal is to work as a full-stack developer and contribute to meaningful projects, such as <a href="https://pivoneers.eu"> Pivoneers.eu</a> — a startup aimed at renovating and revitalizing old websites. I aspire to be part of a dedicated team that brings fresh life to the digital world.</p>
+
             </div>
             <div class="skills">
                 <div class="dev-skills">
-                    <h3>Programming Skills</h3>
+                    <h3 id="mouseShadow2">Programming</h3>
                     <label>HTML5:</label>
-                    <progress max="100" value="70">70%</progress>
+                    <progress max="100" value="75">75%</progress>
                     <label>CSS3:</label>
-                    <progress max="100" value="30">30%</progress>
+                    <progress max="100" value="60">60%</progress>
                     <label>JavaScript:</label>
-                    <progress max="100" value="15">15%</progress>
-                    <label>Python:</label>
-                    <progress max="100" value="5">5%</progress>
+                    <progress max="100" value="45">45%</progress>
                     <label>Node/React:</label>
                     <progress max="100" value="3">2%</progress>
+                    <label>Python:</label>
+                    <progress max="100" value="5">5%</progress>
                 </div>
                 <div class="other-skills">
-                    <h3>Other Skills</h3>
+                    <h3 id="mouseShadow3">Other</h3>
                     <label>Photoshop:</label>
                     <progress max="100" value="65">65%</progress>
                     <label>3D Modeling:</label>
@@ -60,21 +67,22 @@
             </div>
 
             <div class="my-projects">
+                <h3 id="mouseShadow4">My Projects</h3>
                 <div class="project">
-                    <img class=project-sample src="content/img/sample-square0.png" alt="sample">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quidem.</p>
+                    <img class=project-sample src="content/img/placeholder.png" alt="sample">
+                    <p>PLACEHOLDER TEXT<p>
                 </div>
                 <div class="project">
-                    <img class=project-sample src="content/img/sample-square1.png" alt="sample">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quidem.</p>
+                    <img class=project-sample src="content/img/placeholder.png" alt="sample">
+                    <p>PLACEHOLDER TEXT<p>
                 </div>
                 <div class="project">
-                    <img class=project-sample src="content/img/sample-square2.png" alt="sample">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quidem.</p>
+                    <img class=project-sample src="content/img/placeholder.png" alt="sample">
+                    <p>PLACEHOLDER TEXT<p>
                 </div>
                 <div class="project">
-                    <img class=project-sample src="content/img/sample-square3.png" alt="sample">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quidem.</p>
+                    <img class=project-sample src="content/img/placeholder.png" alt="sample">
+                    <p>PLACEHOLDER TEXT<p>
                 </div>
             </div>
             <div class="get-in-touch">
@@ -84,5 +92,5 @@
                     <a href="https://stackoverflow.com/users/12027148/davehornik">Stack Overflow</a>
             </div>
           </div>
-        <script src="" async defer></script>
+          <script src="script/mouseShadow.js"></script>
     </body>
